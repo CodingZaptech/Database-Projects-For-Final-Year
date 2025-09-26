@@ -1,5 +1,5 @@
 -- ===============================================
--- Common Queries for Bank Accounts Management System
+-- Queries for Bank Accounts Management System
 -- ===============================================
 
 -- 1. Retrieve all customers
