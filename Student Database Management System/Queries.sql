@@ -1,5 +1,5 @@
 -- ===============================================
--- Common Queries for Student Database Management System
+-- Queries for Student Database Management System
 -- ===============================================
 
 -- 1. Retrieve all students
